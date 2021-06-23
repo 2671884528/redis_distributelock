@@ -1,0 +1,8 @@
+spring:
+  redis:
+    host: 112.74.180.80
+    port: 6379
+    password: yuhui521.
+
+server:
+  port: 8001
